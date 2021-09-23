@@ -1,6 +1,7 @@
 # Grepp_Self-driving-car
 Grepp에서 주최하고 자이트론의 자이카를 통해서 자율주행 자동차를 만들어 보았습니다. 
-[![Grepp_A#](http://img.youtube.com/vi/WPJwRBtUBCQ/0.jpg)](https://www.youtube.com/embed/WPJwRBtUBCQ) 
+Youtube영상
+[![Grepp_A#](http://img.youtube.com/vi/WPJwRBtUBCQ.jpg)](https://www.youtube.com/embed/WPJwRBtUBCQ) 
 
 
 <br>
