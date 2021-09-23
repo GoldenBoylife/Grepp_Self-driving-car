@@ -59,4 +59,6 @@ Grepp에서 주최하고 자이트론의 자이카를 통해서 자율주행 자
 
 
 ## 4. 동영상 및 사진 자료.
-https://youtu.be/WPJwRBtUBCQ
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WPJwRBtUBCQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+
