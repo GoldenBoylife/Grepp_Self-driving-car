@@ -8,9 +8,9 @@ Grepp에서 주최하고 자이트론의 자이카를 통해서 자율주행 자
 
 | name | in charge |
 | ------------ | :-------------------------------------------------- |
-| Lee hyunwoo (team leader) | Project Manager, T Parking, Parallel Parking, code refactoring |
+| Park hyunwoo (team leader) | Project Manager, T Parking, Parallel Parking, code refactoring |
 | Hwang hwidong(goldenboy) | Sensor Interface, Traffic Light Recognition, Stop Line Recognition, Bumper Recognition|
-| Lee yongjea | 3D mapping, cartographer slam, Yolo ,code refactoring|
+| Lee yongjae | 3D mapping, cartographer slam, Yolo ,code refactoring|
 | Kim Hyunji | Avoid obstacles. Rotary Driving|
 
 <br>
