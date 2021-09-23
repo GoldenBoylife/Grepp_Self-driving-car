@@ -58,7 +58,8 @@ Grepp에서 주최하고 자이트론의 자이카를 통해서 자율주행 자
 ![image](https://user-images.githubusercontent.com/81784631/134535106-05cdbe1f-6745-4111-be61-543638ce9ff3.png)
 
 
-## 4. 동영상 및 사진 자료.
+## 5. 동영상 및 사진 자료.
+[![IU(아이유) _ Into the I-LAND](http://img.youtube.com/vi/WPJwRBtUBCQ/0.jpg)](https://www.youtube.com/embed/WPJwRBtUBCQ) 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WPJwRBtUBCQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 
