@@ -27,6 +27,11 @@ https://www.youtube.com/embed/WPJwRBtUBCQ
 
 <br>
 
+## Requiration
+- xytron xycar a2모델( jetson tx2보드)
+- 
+
+
 ## 사용된 프레임 워크 및 라이브러리
 
 ![python](https://img.shields.io/badge/python-2.7.0-orange?logo=python)
